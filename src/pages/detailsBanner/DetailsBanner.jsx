@@ -5,7 +5,7 @@ import dayjs from "dayjs";
 import "./style.scss";
 import ContentWrapper from "../../components/contentWrapper/ContentWrapper";
 import useFetch from "../../hooks/useFetch";
-import Img from "../../components/lazyLoadImage/Img";
+import Img from "../../components/lazyLoadImage/img";
 import PosterFallback from "../../assets/no-poster.jpg";
 import Genres from "../../components/genres/Genres";
 import CircleRating from "../../components/circleRating/CircleRating";
